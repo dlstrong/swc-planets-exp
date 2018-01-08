@@ -6,4 +6,4 @@ Here's another change
 
 And another
 
-Here's a change from the web interface on the remote GitHub instance.
+I'm modifying a change from the web interface on the remote GitHub instance.
