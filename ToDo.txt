@@ -1,9 +1,0 @@
-To do...
-
-Adding a change for diff purposes
-
-Here's another change
-
-And another
-
-I'm modifying a change from the web interface on the remote GitHub instance.
